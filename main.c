@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <limits.h>
 
 #define MAX_EXPRESSION_LENGTH 100
 
